@@ -211,6 +211,28 @@ export default function page() {
             </>
           }
         />
+        <FaqsBox
+          heading="2. Is it possible to include multiple languages on my Indian wedding invitation?"
+          text={
+            <>
+              Certainly! Our customizable{" "}
+              <FLink lk={`${domain}templates`}>templates</FLink>
+              accommodate multiple languages, celebrating the diversity of your
+              guests.
+            </>
+          }
+        />
+        <FaqsBox
+          heading="2. Is it possible to include multiple languages on my Indian wedding invitation?"
+          text={
+            <>
+              Certainly! Our customizable{" "}
+              <FLink lk={`${domain}templates`}>templates</FLink>
+              accommodate multiple languages, celebrating the diversity of your
+              guests.
+            </>
+          }
+        />
       </Box>
     </>
   );
