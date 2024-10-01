@@ -211,17 +211,6 @@ export default function page() {
             </>
           }
         />
-
-        <FaqsBox
-          heading="3. Can I add religious symbols or motifs specific to my Indian culture on the invitation?"
-          text={
-            <>
-              Yes, our design tool provides a variety of religious symbols and
-              traditional motifs to help you personalise your{" "}
-              <FLink lk={`${domain}invitation`}>invitation.</FLink>
-            </>
-          }
-        />
       </Box>
     </>
   );
