@@ -1,0 +1,17 @@
+export const pageName = [
+  "/sitemap",
+  "/tools/color-wheel",
+  "/qr-code-generator",
+  "/qr-code-generator/edit",
+  "/color-wheel",
+  "/image-enhancer",
+  "/color-wheel",
+  "/tools/image-compressor",
+  "/tools/image-enhancer",
+  "/tools/image-resizer",
+  "/tools/jpg-to-pdf",
+  "/tools/pdf-editor",
+  "/tools/pdf-to-jpg",
+  "/tools/pdf-merger",
+  "/tools/reverse-image",
+];

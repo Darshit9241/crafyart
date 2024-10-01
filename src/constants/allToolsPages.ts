@@ -1,0 +1,18 @@
+export const allToolsPages = [
+  { name: "Background Remover", path: "/background-remover" },
+  { name: "Brand kit", path: "/brand-kit" },
+  { name: "Resize", path: "/resize" },
+  { name: "Caricature", path: "/caricature" },
+  { name: "Style kit", path: "/style-kit" },
+  { name: "Customize Invitation", path: "/customize-invitation" },
+  { name: "Qr Code Generator", path: "/tools/qr-code-generator" },
+  { name: "Image Compressor", path: "/tools/image-compressor" },
+  { name: "Image Enhancer", path: "/tools/image-enhancer" },
+  { name: "Image Resizer", path: "/tools/image-resizer" },
+  { name: "Jpg to Pdf", path: "/tools/jpg-to-pdf" },
+  { name: "Pdf Editor", path: "/tools/pdf-editor" },
+  { name: "Png to Jpg", path: "/tools/png-to-jpg" },
+  { name: "Pdf to Jpg", path: "/tools/pdf-to-jpg" },
+  { name: "Pdf Merger", path: "/tools/pdf-merger" },
+  { name: "Reverse Image", path: "/tools/reverse-image" },
+];

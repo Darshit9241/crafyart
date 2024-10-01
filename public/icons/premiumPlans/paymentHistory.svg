@@ -1,0 +1,36 @@
+<svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="shopping-bag 1" clip-path="url(#clip0_5_497)">
+<g id="g3069">
+<g id="g3071">
+<g id="Clip path group">
+<mask id="mask0_5_497" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-1" y="0" width="21" height="20">
+<g id="clipPath3077">
+<path id="path3075" d="M-0.00195312 9.53674e-06H19.998V20H-0.00195312V9.53674e-06Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_5_497)">
+<g id="g3073">
+<g id="g3079">
+<path id="path3081" d="M10.4129 7.19922V3.4282C10.4129 1.85828 9.14016 0.585588 7.5702 0.585588C6.00023 0.585588 4.72754 1.85828 4.72754 3.4282V7.19922" stroke="#ABB2C7" stroke-width="1.17187" stroke-miterlimit="10"/>
+</g>
+<g id="g3083">
+<path id="path3085" d="M13.563 11.0387L13.2187 5.14477H1.92169L1.3381 15.1348C1.25861 16.4955 2.3406 17.6426 3.70357 17.6426H10.9863" stroke="#ABB2C7" stroke-width="1.17187" stroke-miterlimit="10"/>
+</g>
+<g id="g3087">
+<path id="path3089" d="M12.3271 14.7951L13.8104 16.4727L16.4527 13.7357" stroke="#ABB2C7" stroke-width="1.17187" stroke-miterlimit="10"/>
+</g>
+<g id="g3091">
+<path id="path3093" d="M18.6608 15.1823C18.6608 17.5195 16.7662 19.4141 14.4291 19.4141C12.0919 19.4141 10.1973 17.5195 10.1973 15.1823C10.1973 12.8452 12.0919 10.9506 14.4291 10.9506C16.7662 10.9506 18.6608 12.8452 18.6608 15.1823Z" stroke="#ABB2C7" stroke-width="1.17187" stroke-miterlimit="10"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_5_497">
+<rect width="20" height="20" fill="white"/>
+</clipPath>
+</defs>
+</svg>

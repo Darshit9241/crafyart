@@ -1,0 +1,21 @@
+Sitemap: https://www.craftyartapp.com/sitemap.xml
+User-agent: *
+Disallow: /editor.craftyartapp.com
+Disallow: /craftyartapp.com/s/
+Disallow: /craftyartapp.com/upload
+Disallow: /craftyartapp.com/trash
+Disallow: /craftyartapp.com/draft
+Disallow: /craftyartapp.com/your-account
+Disallow: /craftyartapp.com/thank-you-for-subscription
+Disallow: /craftyartapp.com/thank-you-purchase-template
+Disallow: /craftyartapp.com/refund-cancellation
+User-agent: AdsBot-Google
+User-agent: AdsIdxBot
+
+User-agent: Google-InspectionTool
+Allow: /
+User-agent: Twitterbot
+Allow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
